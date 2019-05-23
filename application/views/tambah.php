@@ -335,7 +335,7 @@
           <h1 class="h3 mb-2 text-gray-800">Tambah Data</h1>
           <p class="mb-4"></a>.</p>
 
-           <form action="simpan_jadwal" method="post"> 
+           <form action="simpan_jadwal" method="get"> 
             tgl:<br> <input type="text" name="tgl"><br>
             insyak :<br> <input type="text" name="insyak" ><br>
             subuh :<br> <input type="text" name="subuh" ><br>

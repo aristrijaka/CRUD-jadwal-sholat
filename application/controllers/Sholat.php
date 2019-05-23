@@ -47,6 +47,7 @@ class Sholat extends CI_Controller {
 		return $waktu_sholat;
 	}
 	function simpan_jadwal(){
+		exit();
 		$data= array(
 					'tgl' => $this->input->post('tgl'),
 					'insyak'=> $this->input->post('insyak'),

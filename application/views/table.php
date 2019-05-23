@@ -339,7 +339,7 @@
           <div class="card shadow mb-4">
             <div class="card-header py-3">
               <h6 class="m-0 font-weight-bold text-primary">DataTables Example</h6>
-              <a href="sholat/tambah_jadwal" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Tambah Data</a>
+              <a href="tambah_jadwal" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Tambah Data</a>
             </div>
             <div class="card-body">
               <div class="table-responsive">
